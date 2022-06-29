@@ -26,4 +26,5 @@ children:
   - /signing-tags
 shortTitle: Verify commit signatures
 ---
+[4dbec46b-6a3c-451b-ac34-e008725fcd1e.pdf](https://github.com/github/docs/files/9014781/4dbec46b-6a3c-451b-ac34-e008725fcd1e.pdf)
 
